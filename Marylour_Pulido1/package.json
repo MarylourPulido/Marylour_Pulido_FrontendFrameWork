@@ -1,0 +1,13 @@
+{
+  "name": "inm320-bootstrap",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Marylour Pulido",
+  "license": "public",
+  "public": "true",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
